@@ -1,5 +1,5 @@
       version: STSv1
       mode: testing
-      mx: your-mx-record-here.com
-      mx: your-mx-record-here.com
+      mx: mail.protonmail.ch
+      mx: mailsec.protonmail.ch
       max_age: 604800
